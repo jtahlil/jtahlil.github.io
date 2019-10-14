@@ -1,3 +1,14 @@
 body{
     background-color: aquamarine
 }
+header{
+    font-weight: bold;
+    font-style: italic    
+}
+
+footer{
+    background-color: aliceblue;
+    border: black solid thin;
+    padding-left: 5px;
+    padding-right: 5px
+}

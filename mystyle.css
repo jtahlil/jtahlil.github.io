@@ -1,0 +1,14 @@
+body{
+    background-color: darkred
+}
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    
+}
+footer{
+    color: white;
+    text-align: left;
+    font-style: italic
+}

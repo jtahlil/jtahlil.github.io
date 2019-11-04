@@ -1,15 +1,6 @@
 body{
-    background-color: aquamarine
+    background-color: darkred
 }
-main{
-    background-color: beige
-    font-weight: bold;
-    font-style: italic    
-}
-
-footer{
-    background-color: aliceblue;
-    border: black solid thin;
-    padding-left: 5px;
-    padding-right: 5px
+h1 {
+    text-align: center;
 }
